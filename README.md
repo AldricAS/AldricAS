@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AldricAS/AldricAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+AldricAS;Welcome+to+AstralTEAM+%F0%9F%9A%80;Builder+of+things+on+the+web+%F0%9F%8C%90;HTML+%7C+JS+%7C+PHP+%7C+Laravel)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=AldricAS&label=Profile+Views&color=00f5ff&style=flat-square" alt="profile views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌌 About Me
+
+```js
+const AldricAS = {
+  alias     : "AstralTEAM",
+  github    : "github.com/AldricAS",
+  focus     : ["Web Development", "UI/UX", "Automation"],
+  stack     : ["HTML", "CSS", "JavaScript", "PHP", "Laravel"],
+  currently : "Building cool stuff @ AldX 🛸",
+  funFact   : "80+ repos and still counting..."
+};
+```
+
+---
+
+## 🛸 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🤖 ZeroAI](https://github.com/AldricAS/ZeroAI) | AI-powered experiment | JS |
+| [🔐 PhisingIdentify](https://github.com/AldricAS/phisingidentify) | Phishing detection tool | HTML/JS |
+| [📱 TikTok Downloader](https://github.com/AldricAS/tiktokdownload) | Download TikTok videos | HTML |
+| [📦 QR Generator](https://github.com/AldricAS/QR-generator) | Generate QR codes instantly | HTML/JS |
+| [🔗 Nexus](https://github.com/AldricAS/nexus) | Link hub / landing | HTML |
+| [💬 Confess](https://github.com/AldricAS/confess) | Anonymous confessions app | JS |
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AldricAS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldricAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AldricAS&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AldricAS&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AldricAS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AldricAS)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════╗
+║   "Code is poetry. Ship it." — AldX  ║
+╚═══════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=100&section=footer" />
+
+</div>
