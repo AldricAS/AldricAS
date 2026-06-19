@@ -72,11 +72,11 @@ const AldricAS = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 👀 Visitor Count
 
 <div align="center">
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AldricAS)
+<img src="https://api.visitorbadge.io/api/visitors?path=AldricAS/AldricAS&countColor=%23263159" width="200" alt="Visitors">
 
 </div>
 
