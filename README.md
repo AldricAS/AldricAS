@@ -76,7 +76,7 @@ const AldricAS = {
 
 <div align="center">
 
-<img src="https://vercel.app" />
+![Top Languages](https://vercel.app)
 
 </div>
 
