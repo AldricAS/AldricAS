@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+AldricAS;Welcome+to+AstralTEAM+%F0%9F%9A%80;Builder+of+things+on+the+web+%F0%9F%8C%90;HTML+%7C+JS+%7C+PHP+%7C+Laravel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+AldricAS;Welcome+to+AldX+%F0%9F%9A%80;Builder+of+things+on+the+web+%F0%9F%8C%90;HTML+%7C+JS+%7C+PHP+%7C+Laravel)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AldricAS&label=Profile+Views&color=00f5ff&style=flat-square" alt="profile views" />
 
@@ -13,7 +13,7 @@
 
 ```js
 const AldricAS = {
-  alias     : "AstralTEAM",
+  alias     : "AldX",
   github    : "github.com/AldricAS",
   focus     : ["Web Development", "UI/UX", "Automation"],
   stack     : ["HTML", "CSS", "JavaScript", "PHP", "Laravel"],
@@ -28,12 +28,12 @@ const AldricAS = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🤖 ZeroAI](https://github.com/AldricAS/ZeroAI) | AI-powered experiment | JS |
+| [📖 Mankaku](https://mankaku.my.id/) | Read Manga | HTML/JS |
 | [🔐 PhisingIdentify](https://github.com/AldricAS/phisingidentify) | Phishing detection tool | HTML/JS |
-| [📱 TikTok Downloader](https://github.com/AldricAS/tiktokdownload) | Download TikTok videos | HTML |
-| [📦 QR Generator](https://github.com/AldricAS/QR-generator) | Generate QR codes instantly | HTML/JS |
-| [🔗 Nexus](https://github.com/AldricAS/nexus) | Link hub / landing | HTML |
-| [💬 Confess](https://github.com/AldricAS/confess) | Anonymous confessions app | JS |
+| [📱 Tiksavers](https://tiksavers.vercel.app/) | Download TikTok videos | HTML |
+| [📦 QR Generator](https://qrmaker-kappa.vercel.app/) | Generate QR codes instantly | HTML/JS |
+| [📺Inikanmyanime](https://www.inikanmyanime.my.id/) | Anime stream | HTML |
+| [💬 Confess](https://confessyourlove.vercel.app/) | Anonymous confessions app | JS |
 
 ---
 
@@ -76,7 +76,7 @@ const AldricAS = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AldricAS&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://vercel.app" />
 
 </div>
 
