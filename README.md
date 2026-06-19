@@ -96,7 +96,7 @@ const AldricAS = {
 
 ```
 ╔═══════════════════════════════════════╗
-║   "Code is poetry. Ship it." — AldX  ║
+║      "Code is poetry. Ship it." — AldX       ║
 ╚═══════════════════════════════════════╝
 ```
 
