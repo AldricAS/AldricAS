@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AldricAS-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0F2027)](https://github.com/AldricAS)
 [![Profile Views](https://komarev.com/ghpvc/?username=AldricAS&label=Profile%20Views&color=00f5ff&style=for-the-badge&labelColor=0F2027)](https://github.com/AldricAS)
-[![Repos](https://img.shields.io/badge/Repositories-80%2B-00f5ff?style=for-the-badge&labelColor=0F2027)](https://github.com/AldricAS?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repositories-70%2B-00f5ff?style=for-the-badge&labelColor=0F2027)](https://github.com/AldricAS?tab=repositories)
 
 </div>
 
