@@ -18,7 +18,7 @@
 
 ```yaml
 alias:       AldX
-role:        Web Developer & Automation Enthusiast
+role:        Fullstack developer 
 based_in:    Indonesia 🇮🇩
 focus:       Web Development · UI/UX · Automation · OSINT tooling
 currently:   Building Nize — an AI chat client for the terminal
