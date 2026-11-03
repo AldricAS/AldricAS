@@ -118,7 +118,6 @@ an interactive menu and a scriptable direct-command mode.
 
 <img src="https://streak-stats.demolab.com?user=AldricAS&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldricAS&theme=react-dark&hide_border=true&area=true" width="90%"/>
 
 </div>
 
