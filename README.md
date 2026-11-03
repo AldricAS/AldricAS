@@ -122,13 +122,6 @@ an interactive menu and a scriptable direct-command mode.
 
 </div>
 
-> **Note:** stats cards are rendered by third-party services and occasionally
-> go down for everyone (not just you) when the free public instance is
-> rate-limited or paused. If a card ever shows as broken, it usually
-> recovers on its own — GitHub also caches images through its own proxy, so
-> it's often more reliable when viewed on github.com than in a third-party
-> markdown previewer.
-
 <br/>
 
 ## 🎯 What I'm Focusing On
